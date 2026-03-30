@@ -53,6 +53,9 @@ button {
   margin-bottom: 5px;
   border-radius: 5px;
 }
+button:hover {
+  cursor: pointer;
+}
 
 #increment-btn {
   background: darkred;
